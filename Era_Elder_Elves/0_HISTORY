@@ -1,0 +1,37 @@
+		== "Era Ivrim" a virtual wesnoth era ==
+				= BACKGROUND =
+
+========= 	Ivrim 		=========
+Ivrim is the name of a faction and a subgroup within. The word actually comes from "ivri" meaning from the other side [of the river], ~im being the plural form. Imagine, that they mostly fight with bronze weaponry, for iron is rather expensive, on the eve of the "Bronze Age collapse" (for further information look up the terms). 
+
+*This new era is intended to be balanced (as of Jan-2014 roughly so far) to the 6 mainline factions, namely loyalists, elves (rebels), dwarves (dwarfs), undead, drakes, orcs (northeners) 
+*Maybe this faction could be a natural opponent of the now featured 'Era_Khalifate', which also deals on the newly proposed and implemented (to my best knowledge 1.11.x ) alignment=liminal, which gets units a -25% at night and -25% at day and +-0% at dawn & dusk, which can be interesting tactically.
+* This new faction has 4 unit types: fighter, archer, healer, scout.
+* Synoptically, they are:
+ ** levites (fighter, meelee > ranged attack, spear & javellin)
+ ** hasmonee (archer, melee < ranged attack, )
+ ** ravs (healer, can summon golems for protection and chol birds as scouts. They have a peaceful advancement branch with a weapon special 'defense_only' and a more aggressive advancement branch. They build up healing abilities with advancement from +3(lvl1) to +8(lvl3))
+ ** chol bird (scout, two branches one lvl1 for AI recruitment and one lvl0 as a summonable in-game-menu unit, can not advance)
+ ** golems (fighter, two branches one for AI recruitment and one as a summonable in-game-menu unit, can not advance) 
+ ** peasants (mixed fighters, they are unique, in that they can only use attack when defending, see ~add-ons/Era_Ivrim/macros/weaponspecials.cfg
+
+--------- 	Levites 	---------
+Levites are stiff-necked defenders of the Ivrim homelands. With extensive studies in the arts of defensive combat, Levites have good physical resistances.
+
+--------- 	Hasmonees 	---------
+In the army, a Hasmonee is a lightfoot soldier, armed only with a bronce sword, leather armor and a sling. They are intensively trained and serve constant active field-duty. Therefore they quicker qualify for higher ranks. They are very versatile fighters with a quick movement and develop the abilities to skirmish. With extensive studies in the arts of defensive combat, Levites have good fighting resistances. The Kohen is a spiritual leader-figure in peace and war. He is a holy person, a priest and can be a deadly warrior in combat also.
+
+--------- 	Ravs 		---------
+Ravs normally do not fight in the military. The practice and learning of holy scriptures is on of their endeavors. 
+Originally learned to teach in holy spirituality, some Ravs have harnessed holy powers for more militaristic purposes in order to join their bretheren in battle.
+
+--------- 	Chol birds 	---------
+The Chol bird is a mythical bird, sometimes it is called Phoenix. On the Chol bird no death was decreed because it did not taste of the Tree of the knowledge of good and evil in the garden in Eden. It would renew itself and return to its youth, and never dies. The Chol would live and eventually a fire would emerge and burn it to ashes. But an amount of it, equivalent to an egg, would remain and grow limbs and live.
+
+--------- 	Golems 		---------
+A Golem is a fresh body of earthen clay, the size of a man. They are spirited by verse on small parchment stripes that is typically placed in the mouth of it, like a pragramming code. This animates their bodies in a controlled fashion. Only kabbalistic verse of pure spirituality can animate the clay in bodily form. They are not fast but the mass and quality of their bodies can cause some defense. These golems are incredible, but kabbalist of higher holyness and spirituality can even animate bigger golems. They can guard and defend a person. It is a "fighter" type unit.
+
+
+
+
+
